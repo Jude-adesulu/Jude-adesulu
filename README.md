@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/Jude-adesulu/Jude-adesulu/main/img.png)
 ### Hi there and welcome👋
 
 My name is **Jude Adesulu** and I’m a **Software Engineering** student at **ALX Africa**. I'm more specialized on the backend. <br >
