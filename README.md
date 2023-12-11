@@ -1,13 +1,20 @@
 ![](https://raw.githubusercontent.com/Jude-adesulu/Jude-adesulu/main/img.png)
 ### Hi there and welcome👋
 
-My name is **Jude Adesulu** and I’m a **Software Engineering** student at **ALX Africa**. I'm more specialized on the backend. <br >
+My name is **Jude Adesulu** and I’m a **Software Engineering** with over 3 years of hands-on experience. <br >
 You can reach me via:
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=1CA2F1&color=1CA2F1)](https://twitter.com/kvnq_jude)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=0D76A8&color=0D76A8)](https://www.linkedin.com/in/jude-adesulu)
 
 ## 📌 Pinned Repositories
+<br>
+
+<a href="https://github.com/jude-adesulu/LeaveManagement-System">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jude-adesulu&repo=simple_shell&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
 
 <br>
 
