@@ -11,7 +11,7 @@ You can reach me via:
 <br>
 
 <a href="https://github.com/jude-adesulu/LeaveManagement-System">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jude-adesulu&repo=simple_shell&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jude-adesulu&repo=LeaveManagement-System&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
